@@ -1,0 +1,19 @@
+<p>
+  <strong>🇮🇳 NETnahihai: Offline Map Navigation</strong> — Proudly Made in India by Krishna.
+</p>
+
+<p>
+  <strong>NETnahihai</strong> is a high-performance offline Android navigation app
+  powered by <strong>GraphHopper</strong> for turnkey routing algorithms and <strong>MapLibre</strong>
+  for crystal-clear map rendering. Designed for seamless navigation even when there is zero mobile network.
+</p>
+
+<h3>Features</h3>
+<ul>
+  <li><strong>100% Offline maps</strong> — Access full maps without an active internet connection.</li>
+  <li><strong>Interactive controls</strong> — Rotate, zoom, and toggle 2D/3D compass mode.</li>
+  <li><strong>Multi-profile routing</strong> — Optimized for car, motorcycle, and foot navigation.</li>
+  <li><strong>Smart recalculation</strong> — Auto-reroutes quickly when you deviate more than 30m.</li>
+  <li><strong>Resumable downloads</strong> — Resume interrupted map downloads anytime.</li>
+  <li><strong>Created by Krishna</strong> — Tailored for reliable offline travel everywhere.</li>
+</ul>
